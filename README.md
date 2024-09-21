@@ -18,4 +18,4 @@ Some of my favorite quotes.
 
 ## English
 
-*See <a href="https://benjamin-braun.github.io/quotes/english_translated">english_translated.md</a> for a translated version of "German".*
+*See <a href="https://benjamin-braun.github.io/quotes/english_translated">english_translated.md</a> for a translated version of #German.*
