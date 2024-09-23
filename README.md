@@ -10,7 +10,7 @@ Some of my favorite quotes.
 <br>
 "Wer früh aufgibt, kann den anderen beim Verlieren zusehen" - Nico Semmsrott
 <br>
-"Es ist nie falsch, das Richtige zu tun" - Robert De Niro
+"Es ist nie falsch das Richtige zu tun" - Robert De Niro
 <br>
 "Jede Entscheidung ist der Tot von Milliarden von Möglichkeiten" - Nico Semmsrott
 <br>
