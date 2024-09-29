@@ -8,6 +8,8 @@ Some of my favorite quotes.
 <br>
 "Die Hoffnung stirbt zuletzt, aber sie stirbt" - Nico Semmsrott
 <br>
+"Denken Sie weniger und leben Sie mehr" - Daniel Beuthner
+<br>
 "Wer früh aufgibt, kann den anderen beim Verlieren zusehen" - Nico Semmsrott
 <br>
 "Es ist nie falsch das Richtige zu tun" - Robert De Niro
