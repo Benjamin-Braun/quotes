@@ -19,6 +19,8 @@ Some of my favorite quotes.
 "Ein Berg geht rauf, es gibt eine Spitze und er geht wieder runter. Und dann gehts runter, des glaubst du nicht" - Kilian Friedrich
 <br>
 "Der Klügere gibt auf" - Nico Semmsrott
+<br>
+"Hans aufs Herz" - Kilian Friedrich
 
 ## English
 
