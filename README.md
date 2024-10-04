@@ -16,6 +16,8 @@ Some of my favorite quotes.
 <br>
 "Jede Entscheidung ist der Tot von Milliarden von Möglichkeiten" - Nico Semmsrott
 <br>
+"Ein Berg geht rauf, es gibt eine Spitze und er geht wieder runter. Und dann gehts runter, des glaubst du nicht" - Kilian Friedrich
+<br>
 "Der Klügere gibt auf" - Nico Semmsrott
 
 ## English
